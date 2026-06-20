@@ -5,9 +5,9 @@ Apparently he's interested in data analytics, why would'nt he? You think this gu
 
 ## 🌱 Currently learning
 
-- Studying DS fundamentals
-- Building foundational knowledge in DS
-- Exploring 'Agents-assisted' business workflows 
+- Studying foundational knowledge in DS 
+- Exploring agentic business workflows
+- Peeking at ML and LLMs
 
 ## 🚀 Working on
 
@@ -16,4 +16,4 @@ Apparently he's interested in data analytics, why would'nt he? You think this gu
 ---
 
 Thanks for stopping by! \
-<i>Also, try a manual brew coffee sometimes!~~ a Japanese one preferably!!~~<i/>
+<i>hail manual brews<i/>
